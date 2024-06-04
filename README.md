@@ -1,0 +1,3 @@
+ - This calculator performs various arithmetic operations like addition, subtraction, multiplication, division
+ - It is developed using HTML, CSS and JavaScript
+ - It is easy to use and has a user-friendly interface
